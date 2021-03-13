@@ -21,8 +21,7 @@
             "aot": true,
             "assets": [
               "src/favicon.ico",
-              "src/assets",
-              "src/assets/data.json"
+              "src/assets"
             ],
             "styles": [
               "src/styles.css"
