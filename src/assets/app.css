@@ -1,0 +1,21 @@
+body {
+    font-family: 'RobotoDraft', 'Roboto', 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
+    text-align: left;
+    font-style: normal;
+    line-height: 2rem;
+    letter-spacing: 0.01rem;
+    color: #212121;
+    background-color: #fafafa;
+    position: relative;
+    margin-left: 100px;
+  }
+  
+.ngx-datatable,
+.info {
+  text-align: left;
+  width: 75%;
+}
+
+.ngx-datatable.scroll-vertical {
+  height: 70vh;
+}
