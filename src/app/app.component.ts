@@ -1,4 +1,4 @@
-import { Component, ViewEncapsulation, ViewChild } from '@angular/core';
+import { Component, ViewEncapsulation, ViewChild, OnInit } from '@angular/core';
 import { DatatableComponent } from '@swimlane/ngx-datatable';
 
 @Component({
@@ -11,7 +11,7 @@ import { DatatableComponent } from '@swimlane/ngx-datatable';
   '../../node_modules/@swimlane/ngx-datatable/themes/material.scss']
 })
 
-export class AppComponent {
+export class AppComponent{
   title = 'table-design-ui';
   state: any;
   rows = [];
@@ -40,8 +40,10 @@ export class AppComponent {
   updateFilter(event) {
     const val = event.target.value.toLowerCase();
 
-    const temp = this.temp.filter(function (d) {
-      return d.name.toLowerCase().indexOf(val) !== -1 || !val;
+    const temp = this.temp.filter(function (item) {
+        return (item.id.toString().toLowerCase().indexOf(val) !== -1 || item.name.toLowerCase().indexOf(val) !== -1 || 
+        item.age.toString().toLowerCase().indexOf(val) !== -1 || item.gender.toLowerCase().indexOf(val) !== -1 || 
+        item.city.toLowerCase().indexOf(val) !== -1 || item.pincode.toString().toLowerCase().indexOf(val) !== -1 || !val);
     });
 
     this.rows = temp;
