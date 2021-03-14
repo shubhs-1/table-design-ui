@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "name": "Shubham K",
+        "age": 24,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "pincode": 380051
+    },
+    {
+        "id": 2,
+        "name": "EFGHIJ K",
+        "age": 35,
+        "gender": "Male",
+        "city": "Baroda",
+        "pincode": 280012
+    },
+    {
+        "id": 3,
+        "name": "ASFAF J",
+        "age": 27,
+        "gender": "Female",
+        "city": "Pune",
+        "pincode": 411006
+    },
+    {
+        "id": 4,
+        "name": "Shivam P",
+        "age": 29,
+        "gender": "Male",
+        "city": "Pune",
+        "pincode": 411002
+    },
+    {
+        "id": 5,
+        "name": "Rohan G",
+        "age": 25,
+        "gender": "Male",
+        "city": "Baroda",
+        "pincode": 280022
+    },
+    {
+        "id": 6,
+        "name": "Payal G",
+        "age": 28,
+        "gender": "Female",
+        "city": "Rajkot",
+        "pincode": 360061
+    },
+    {
+        "id": 7,
+        "name": "Parth K",
+        "age": 40,
+        "gender": "Male",
+        "city": "Baroda",
+        "pincode": 280032
+    },
+    {
+        "id": 8,
+        "name": "Saloni A",
+        "age": 26,
+        "gender": "Female",
+        "city": "Ahmedabad",
+        "pincode": 380006
+    },
+    {
+        "id": 9,
+        "name": "Ram K",
+        "age": 30,
+        "gender": "Male",
+        "city": "Baroda",
+        "pincode": 280005
+    },
+    {
+        "id": 10,
+        "name": "Bob K",
+        "age": 34,
+        "gender": "Male",
+        "city": "New York",
+        "pincode": 123
+    },
+    {
+        "id": 11,
+        "name": "Alice B",
+        "age": 32,
+        "gender": "Female",
+        "city": "Boston",
+        "pincode": 456
+    },
+    {
+        "id": 12,
+        "name": "Karan T",
+        "age": 27,
+        "gender": "Male",
+        "city": "Baroda",
+        "pincode": 290001
+    },
+    {
+        "id": 13,
+        "name": "Charvi",
+        "age": 26,
+        "gender": "Female",
+        "city": "Rajkot",
+        "pincode": 350431
+    },
+    {
+        "id": 14,
+        "name": "Shyam",
+        "age": 29,
+        "gender": "Male",
+        "city": "Pune",
+        "pincode": 400001
+    },
+    {
+        "id": 15,
+        "name": "Manoj V",
+        "age": 31,
+        "gender": "Male",
+        "city": "Baroda",
+        "pincode": 123456
+    },
+    {
+        "id": 16,
+        "name": "Aditya K",
+        "age": 25,
+        "gender": "Male",
+        "city": "Rajkot",
+        "pincode": 654321
+    },
+    {
+        "id": 17,
+        "name": "Darwin P",
+        "age": 25,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "pincode": 345678
+    },
+    {
+        "id": 18,
+        "name": "Amol S",
+        "age": 28,
+        "gender": "Male",
+        "city": "Baroda",
+        "pincode": 234567
+    },
+    {
+        "id": 19,
+        "name": "Bhupesh R",
+        "age": 42,
+        "gender": "Male",
+        "city": "Pune",
+        "pincode": 600001
+    },
+    {
+        "id": 20,
+        "name": "Bhavesh V",
+        "age": 36,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "pincode": 122234
+    },
+    {
+        "id": 21,
+        "name": "Bansari P",
+        "age": 37,
+        "gender": "Female",
+        "city": "Rajkot",
+        "pincode": 232323
+    },
+    {
+        "id": 22,
+        "name": "Ronak M",
+        "age": 35,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "pincode": 334123
+    },
+    {
+        "id": 23,
+        "name": "Kunal D",
+        "age": 29,
+        "gender": "Male",
+        "city": "Pune",
+        "pincode": 234354
+    },
+    {
+        "id": 24,
+        "name": "Samkit S",
+        "age": 36,
+        "gender": "Male",
+        "city": "Baroda",
+        "pincode": 345465
+    },
+    {
+        "id": 25,
+        "name": "Darshan T",
+        "age": 32,
+        "gender": "Male",
+        "city": "Rajkot",
+        "pincode": 655443
+    },
+    {
+        "id": 26,
+        "name": "Dhaval",
+        "age": 27,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "pincode": 123334
+    },
+    {
+        "id": 27,
+        "name": "Deep",
+        "age": 28,
+        "gender": "Male",
+        "city": "Pune",
+        "pincode": 411111
+    },
+    {
+        "id": 28,
+        "name": "Drashti D",
+        "age": 37,
+        "gender": "Female",
+        "city": "Ahmedabad",
+        "pincode": 380051
+    },
+    {
+        "id": 29,
+        "name": "Kashyap T",
+        "age": 26,
+        "gender": "Male",
+        "city": "Baroda",
+        "pincode": 280009
+    },
+    {
+        "id": 30,
+        "name": "ABCDEF G",
+        "age": 33,
+        "gender": "Male",
+        "city": "California",
+        "pincode": 789
+    }
+]
