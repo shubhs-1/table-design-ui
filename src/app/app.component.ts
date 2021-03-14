@@ -1,4 +1,4 @@
-import { Component, ViewEncapsulation, ViewChild, OnInit } from '@angular/core';
+import { Component, ViewEncapsulation, ViewChild} from '@angular/core';
 import { DatatableComponent } from '@swimlane/ngx-datatable';
 
 @Component({
@@ -13,7 +13,6 @@ import { DatatableComponent } from '@swimlane/ngx-datatable';
 
 export class AppComponent{
   title = 'table-design-ui';
-  state: any;
   rows = [];
   temp = [];
 
